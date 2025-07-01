@@ -1,9 +1,8 @@
 "use strict";
 
-var themeType = "light"; // light or dark
-var sidebarColor = "light-sidebar"; // light-sidebar or dark-sidebar
-var themeColor = "theme-white"; // theme-black",theme-white",theme-purple,theme-blue,theme-cyan,theme-green,theme-orange
-
+var themeType = "light";
+var sidebarColor = "light-sidebar"; 
+var themeColor = "theme-white";
 $(window).on("load", function () {
   $(".loader").fadeOut("slow");
 });
@@ -786,3 +785,23 @@ $(function () {
   // sticky header default set to true
   $("#sticky_header_setting").prop("checked", true);
 });
+
+
+
+ // $("#sticky_header_setting").prop("checked", true);
+ // $("#sticky_header_setting").prop("checked", true);
+ // $("#sticky_header_setting").prop("checked", true);
+ // $("#sticky_header_setting").prop("checked", true);
+ // $("#sticky_header_setting").prop("checked", true);
+ // $("#sticky_header_setting").prop("checked", true);
+ // $("#sticky_header_setting").prop("checked", true);
+ // $("#sticky_header_setting").prop("checked", true);
+ // $("#sticky_header_setting").prop("checked", true);
+ // $("#sticky_header_setting").prop("checked", true);
+ // $("#sticky_header_setting").prop("checked", true);
+ // $("#sticky_header_setting").prop("checked", true);
+ // $("#sticky_header_setting").prop("checked", true);
+ // $("#sticky_header_setting").prop("checked", true);
+ // $("#sticky_header_setting").prop("checked", true);
+ // $("#sticky_header_setting").prop("checked", true);
+ // $("#sticky_header_setting").prop("checked", true);
